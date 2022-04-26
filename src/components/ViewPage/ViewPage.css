@@ -1,0 +1,9 @@
+
+.ViewPage{
+    min-height: 92vh;
+    background-color: rgba(0, 255, 157, 0.585);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}

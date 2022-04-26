@@ -1,0 +1,54 @@
+.Card{
+    position: relative;
+    margin: 40px;
+    border-radius: 7px;
+    box-shadow: 0px 1px 27px 8px white;
+    background: rgba(255, 255, 255, 0.632);
+    padding: 50px;
+
+}
+.icon{
+    font-size: 24px;
+    margin-right: 5px;
+}
+.editInput{
+    padding: 5px;
+    margin: 0;
+    border-radius: 0;
+}
+.editButton{
+    cursor: pointer;
+    padding: 5px;
+}
+.deleteBtn{
+    background-color: red;
+    position: absolute;
+    right: 0px;
+    top: 0;
+    cursor: pointer;
+}
+.edit{
+    position: absolute;
+    right:4px;
+    cursor: pointer;
+
+}
+.edit2{
+    position: absolute;
+    right: 28px;
+    cursor: pointer;
+
+}
+.name{
+    margin: 0;
+    text-align: center;
+}
+.email{
+
+}
+.phoneNumber{
+    
+}
+.dateOfBirth{
+
+}
